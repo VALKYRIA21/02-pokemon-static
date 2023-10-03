@@ -41,32 +41,5 @@ export const NavBar = () => {
         </NavbarContent>
       </Navbar>
     </>
-    // <div
-    //   style={{
-    //     display: "flex",
-    //     width: "100%",
-    //     flexDirection: "row",
-    //     alignContent: "center",
-    //     justifyContent: "start",
-    //     padding: "0px 20px",
-    //     backgroundColor: "black",
-    //   }}
-    // >
-    //   <Image
-    //     src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
-    //     alt="Icono del sitio web"
-    //     width={70}
-    //     height={70}
-    //   />
-
-    //   <h2 style={{ color: "white" }}>P</h2>
-    //   <h3 style={{ color: "white" }}>okemon</h3>
-
-    //   <Spacer x={96} />
-    //   <Spacer x={96} />
-    //   <Spacer x={96} />
-
-    //   <p style={{ color: "white" }}>Favoritos</p>
-    // </div>
   );
 };
